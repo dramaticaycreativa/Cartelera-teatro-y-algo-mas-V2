@@ -80,3 +80,26 @@ function renderPagination() {
   };
   paginationContainer.appendChild(nextBtn);
 }
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem 0;
+}
+
+.pagination button {
+  background-color: #d9b843;
+  color: #2b3e79;
+  border: none;
+  padding: 0.5rem 1rem;
+  margin: 0 0.5rem;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.pagination button:disabled {
+  background-color: #999;
+  cursor: not-allowed;
+  color: #fff;
+}
