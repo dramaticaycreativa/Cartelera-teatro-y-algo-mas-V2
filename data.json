@@ -1,0 +1,42 @@
+[
+  {
+    "titulo": "Obra: La vida es sueño",
+    "fecha": "Miércoles 17 - 20:30 hs",
+    "lugar": "Teatro Mitre",
+    "descripcion": "Una puesta en escena moderna del clásico de Calderón de la Barca.",
+    "precio": "$3000",
+    "mapa": "https://www.google.com/maps?q=Teatro+Mitre+Jujuy"
+  },
+  {
+    "titulo": "Muestra Fotográfica: Rostros del Norte",
+    "fecha": "Jueves 18 - 18:00 hs",
+    "lugar": "Centro Cultural Héctor Tizón",
+    "descripcion": "Exposición colectiva de fotografía contemporánea jujeña.",
+    "precio": "Entrada libre y gratuita",
+    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Héctor+Tizón+Jujuy"
+  },
+  {
+    "titulo": "Concierto: Sonidos Andinos",
+    "fecha": "Viernes 19 - 21:00 hs",
+    "lugar": "Teatro El Pasillo",
+    "descripcion": "Música tradicional y contemporánea de los Andes.",
+    "precio": "$2500",
+    "mapa": "https://www.google.com/maps?q=Teatro+El+Pasillo+Jujuy"
+  },
+  {
+    "titulo": "Obra infantil: El circo mágico",
+    "fecha": "Sábado 20 - 17:00 hs",
+    "lugar": "Teatro Mitre",
+    "descripcion": "Una experiencia para toda la familia llena de humor y fantasía.",
+    "precio": "$2000",
+    "mapa": "https://www.google.com/maps?q=Teatro+Mitre+Jujuy"
+  },
+  {
+    "titulo": "Jam de Teatro Espontáneo",
+    "fecha": "Domingo 21 - 19:00 hs",
+    "lugar": "Centro Cultural Héctor Tizón",
+    "descripcion": "Improvisaciones teatrales con participación del público.",
+    "precio": "Entrada a la gorra",
+    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Héctor+Tizón+Jujuy"
+  }
+]
