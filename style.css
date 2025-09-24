@@ -55,9 +55,23 @@ footer {
   color: #fff;
 }
 
+footer .social {
+  margin: 1rem 0;
+}
+
 footer a {
   margin: 0 10px;
   color: #d9b843;
   font-size: 1.5rem;
   text-decoration: none;
 }
+
+footer a:hover {
+  color: #fff; /* Cambio de color al pasar el mouse */
+}
+
+footer .copy {
+  font-size: 0.9rem;
+  margin-top: 1rem;
+}
+
