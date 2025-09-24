@@ -9,6 +9,7 @@ fetch("data.json")
     activities = data;
     renderPage(currentPage);
     renderPagination();
+    applyPaginationStyles(); // Aplicar estilos al contenedor de paginación
   })
   .catch(error => console.error("Error cargando actividades:", error));
 
@@ -56,6 +57,7 @@ function renderPagination() {
       renderPage(currentPage);
       renderPagination();
       window.scrollTo(0, 0);
+      applyPaginationStyles();
     }
   };
   paginationContainer.appendChild(prevBtn);
@@ -76,30 +78,37 @@ function renderPagination() {
       renderPage(currentPage);
       renderPagination();
       window.scrollTo(0, 0);
+      applyPaginationStyles();
     }
   };
   paginationContainer.appendChild(nextBtn);
-}
-pagination {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 2rem 0;
+
+  applyPaginationStyles();
 }
 
-pagination button {
-  background-color: #d9b843;
-  color: #2b3e79;
-  border: none;
-  padding: 0.5rem 1rem;
-  margin: 0 0.5rem;
-  border-radius: 5px;
-  cursor: pointer;
-  font-weight: bold;
+// Función para aplicar estilos al contenedor y botones
+function applyPaginationStyles() {
+  const paginationContainer = document.getElementById("pagination");
+  paginationContainer.style.display = "flex";
+  paginationContainer.style.justifyContent = "center";
+  paginationContainer.style.alignItems = "center";
+  paginationContainer.style.margin = "2rem 0";
+
+  const buttons = paginationContainer.querySelectorAll("button");
+  buttons.forEach(btn => {
+    btn.style.backgroundColor = "#d9b843";
+    btn.style.color = "#2b3e79";
+    btn.style.border = "none";
+    btn.style.padding = "0.5rem 1rem";
+    btn.style.margin = "0 0.5rem";
+    btn.style.borderRadius = "5px";
+    btn.style.cursor = "pointer";
+    btn.style.fontWeight = "bold";
+    if (btn.disabled) {
+      btn.style.backgroundColor = "#999";
+      btn.style.cursor = "not-allowed";
+      btn.style.color = "#fff";
+    }
+  });
 }
 
-pagination button:disabled {
-  background-color: #999;
-  cursor: not-allowed;
-  color: #fff;
-}
