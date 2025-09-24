@@ -94,5 +94,13 @@
     "descripcion": "Concierto a la luz de las velas con la música de Coldplay.",
     "precio": "Consultar en boletería",
     "mapa": "https://www.google.com/maps?q=Teatro+Mitre+Jujuy"
+  },
+  {
+    "titulo": "Muestra Pictorica: Trazos Culturales",
+    "fecha": "Sábado 13 de septiembre hasta Martes 30 de septiembre",
+    "lugar": "Casa Museo Macedonio Graz, Lamadrid esq. Güemes",
+    "descripcion": "A cargo del artista Eloy Adriel Lamas.",
+    "precio": "Entrada libre y gratuita",
+    "mapa": "https://www.google.com/maps?q=Casa+Museo+Macedonio+Graz+Jujuy"
   }
 ]
