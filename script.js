@@ -80,14 +80,14 @@ function renderPagination() {
   };
   paginationContainer.appendChild(nextBtn);
 }
-.pagination {
+pagination {
   display: flex;
   justify-content: center;
   align-items: center;
   margin: 2rem 0;
 }
 
-.pagination button {
+pagination button {
   background-color: #d9b843;
   color: #2b3e79;
   border: none;
@@ -98,7 +98,7 @@ function renderPagination() {
   font-weight: bold;
 }
 
-.pagination button:disabled {
+pagination button:disabled {
   background-color: #999;
   cursor: not-allowed;
   color: #fff;
