@@ -38,5 +38,61 @@
     "descripcion": "Con Germán Palacios e Inés Estévez. Entradas en ventas.autoentrada.com o en boletería del Teatro Mitre. Una comedia romántica con poesía, humor e intriga.",
     "precio": "Consultar en ventas.autoentrada.com",
     "mapa": "https://www.google.com/maps?q=Teatro+Mitre+Jujuy"
+  },
+  {
+    "titulo": "Concierto: Canciones de amor - Sebastián Mealla",
+    "fecha": "Viernes 26 de septiembre - 21:30 hs",
+    "lugar": "Café El Pasillo, José de la Iglesia 1190",
+    "descripcion": "Presentación musical de Sebastián Mealla. Entradas en entradaweb.com.",
+    "precio": "Consultar en entradaweb.com",
+    "mapa": "https://www.google.com/maps?q=José+de+la+Iglesia+1190+Jujuy"
+  },
+  {
+    "titulo": "Concierto Coral: Vientos de tarde - Coro de la Mejor Edad",
+    "fecha": "Viernes 26 de septiembre - 21:00 hs",
+    "lugar": "Teatro Mitre, Alvear 1009",
+    "descripcion": "Concierto del Coro de la Mejor Edad en el marco de Vientos de tarde.",
+    "precio": "Consultar boletería",
+    "mapa": "https://www.google.com/maps?q=Teatro+Mitre+Jujuy"
+  },
+  {
+    "titulo": "Cine Estreno: La llegada del hijo",
+    "fecha": "Viernes 26 de septiembre - 21:15 hs",
+    "lugar": "Cine Auditorium Julio Lencina, Independencia, casi esq. Italia, San Salvador de Jujuy",
+    "descripcion": "Dirigida por Cecilia Atán y Valeria Pivato. Drama familiar protagonizado por Maricel Álvarez y Angelo Mutti Spinetta. Trailer: https://www.youtube.com/watch?v=AKZxxMCQ1jw",
+    "precio": "$2800 / $1400 / Personas con discapacidad: gratis",
+    "mapa": "https://www.google.com/maps?q=Cine+Independencia+Jujuy"
+  },
+  {
+    "titulo": "Cine Estreno: Verano Trippin",
+    "fecha": "Jueves 25 de septiembre - 21:15 hs | Sábado 27 de septiembre - 21:15 hs",
+    "lugar": "Cine Auditorium Julio Lencina, Independencia, casi esq. Italia, San Salvador de Jujuy",
+    "descripcion": "De Morena Fernández Quinteros. Protagonizada por Miranda de la Serna y Zoe Hochbaum, con participación de Lali Espósito. Trailer: https://www.youtube.com/watch?v=w2nv5e8_T5s",
+    "precio": "$2800 / $1400 / Personas con discapacidad: gratis",
+    "mapa": "https://www.google.com/maps?q=Cine+Independencia+Jujuy"
+  },
+  {
+    "titulo": "Sesiones de Blackout: música de alta definición en total oscuridad",
+    "fecha": "Domingo 28 de septiembre - 19:00 hs",
+    "lugar": "Teatro El Pasillo, José de la Iglesia 1190",
+    "descripcion": "Experiencia musical inmersiva en completa oscuridad. Info y entradas al 3885746466.",
+    "precio": "Consultar en boletería",
+    "mapa": "https://www.google.com/maps?q=Teatro+El+Pasillo+Jujuy"
+  },
+  {
+    "titulo": "Serie de Conciertos Candlelight: Tributo a Coldplay",
+    "fecha": "Domingo 28 de septiembre - 18:00 hs y 20:30 hs",
+    "lugar": "Teatro Mitre, Alvear 1009",
+    "descripcion": "Concierto a la luz de las velas con la música de Coldplay.",
+    "precio": "Consultar en boletería",
+    "mapa": "https://www.google.com/maps?q=Teatro+Mitre+Jujuy"
+  },
+  {
+    "titulo": "Cortos en el Cine Independencia",
+    "fecha": "Sábado 27 de septiembre - 19:30 y 19:45 hs",
+    "lugar": "Cine Auditorium Julio Lencina, Independencia, casi esq. Italia, San Salvador de Jujuy",
+    "descripcion": "19:30 'Las habitaciones vacías' (Julia Pesce, 15m). 19:45 'El maestro' (Dabien-Tamagnini, 70m). Entrada solidaria. Desde 20 min antes.",
+    "precio": "Entrada solidaria",
+    "mapa": "https://www.google.com/maps?q=Cine+Independencia+Jujuy"
   }
 ]
