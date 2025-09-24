@@ -1,7 +1,7 @@
 [
   {
     "titulo": "Charla: Alma Cultural",
-    "fecha": "Martes 24 de septiembre - 18:30 hs",
+    "fecha": "Miércoles 24 de septiembre - 18:30 hs",
     "lugar": "Casa Museo Macedonio Graz, Lamadrid esq. Güemes",
     "descripcion": "En el marco de la muestra 'Trazos Culturales' del artista Eloy Adriel Lamas.",
     "precio": "Entrada libre y gratuita",
@@ -39,6 +39,14 @@
     "precio": "Consultar en ventas.autoentrada.com",
     "mapa": "https://www.google.com/maps?q=Teatro+Mitre+Jujuy"
   },
+   {
+    "titulo": "Cine Estreno: Verano Trippin",
+    "fecha": "Jueves 25 de septiembre - 21:15 hs | Sábado 27 de septiembre - 21:15 hs",
+    "lugar": "Cine Auditorium Julio Lencina, Independencia, casi esq. Italia, San Salvador de Jujuy",
+    "descripcion": "De Morena Fernández Quinteros. Protagonizada por Miranda de la Serna y Zoe Hochbaum, con participación de Lali Espósito. Trailer: https://www.youtube.com/watch?v=w2nv5e8_T5s",
+    "precio": "$2800 / $1400 / Personas con discapacidad: gratis",
+    "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
+  },
   {
     "titulo": "Concierto: Canciones de amor - Sebastián Mealla",
     "fecha": "Viernes 26 de septiembre - 21:30 hs",
@@ -61,15 +69,15 @@
     "lugar": "Cine Auditorium Julio Lencina, Independencia, casi esq. Italia, San Salvador de Jujuy",
     "descripcion": "Dirigida por Cecilia Atán y Valeria Pivato. Drama familiar protagonizado por Maricel Álvarez y Angelo Mutti Spinetta. Trailer: https://www.youtube.com/watch?v=AKZxxMCQ1jw",
     "precio": "$2800 / $1400 / Personas con discapacidad: gratis",
-    "mapa": "https://www.google.com/maps?q=Cine+Independencia+Jujuy"
+    "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
   },
-  {
-    "titulo": "Cine Estreno: Verano Trippin",
-    "fecha": "Jueves 25 de septiembre - 21:15 hs | Sábado 27 de septiembre - 21:15 hs",
+   {
+    "titulo": "Cortos en el Cine Independencia",
+    "fecha": "Sábado 27 de septiembre - 19:30 y 19:45 hs",
     "lugar": "Cine Auditorium Julio Lencina, Independencia, casi esq. Italia, San Salvador de Jujuy",
-    "descripcion": "De Morena Fernández Quinteros. Protagonizada por Miranda de la Serna y Zoe Hochbaum, con participación de Lali Espósito. Trailer: https://www.youtube.com/watch?v=w2nv5e8_T5s",
-    "precio": "$2800 / $1400 / Personas con discapacidad: gratis",
-    "mapa": "https://www.google.com/maps?q=Cine+Independencia+Jujuy"
+    "descripcion": "19:30 'Las habitaciones vacías' (Julia Pesce, 15m). 19:45 'El maestro' (Dabien-Tamagnini, 70m). Entrada solidaria. Desde 20 min antes.",
+    "precio": "Entrada solidaria",
+    "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
   },
   {
     "titulo": "Sesiones de Blackout: música de alta definición en total oscuridad",
@@ -86,13 +94,5 @@
     "descripcion": "Concierto a la luz de las velas con la música de Coldplay.",
     "precio": "Consultar en boletería",
     "mapa": "https://www.google.com/maps?q=Teatro+Mitre+Jujuy"
-  },
-  {
-    "titulo": "Cortos en el Cine Independencia",
-    "fecha": "Sábado 27 de septiembre - 19:30 y 19:45 hs",
-    "lugar": "Cine Auditorium Julio Lencina, Independencia, casi esq. Italia, San Salvador de Jujuy",
-    "descripcion": "19:30 'Las habitaciones vacías' (Julia Pesce, 15m). 19:45 'El maestro' (Dabien-Tamagnini, 70m). Entrada solidaria. Desde 20 min antes.",
-    "precio": "Entrada solidaria",
-    "mapa": "https://www.google.com/maps?q=Cine+Independencia+Jujuy"
   }
 ]
