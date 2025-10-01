@@ -104,6 +104,11 @@ nav ul li a:hover {
   background-color: rgba(255, 255, 255, 0.1); /* leve sombreado detrás */
   box-shadow: 0 4px 10px rgba(217, 184, 67, 0.5);
 }
+nav ul li a.activo {
+  color: #d9b843; /* amarillo */
+  background-color: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 4px 10px rgba(217, 184, 67, 0.5);
+}
 
 
 /* --- Estilos generales para reseñas --- */
