@@ -123,6 +123,16 @@ function mostrarSeccion(id) {
   if (seccion) {
     seccion.style.display = "block";
   }
+  // Quitar clase activo de todos los botones
+  document.querySelectorAll("nav a").forEach(link => {
+    link.classList.remove("activo");
+  });
+
+  // Agregar clase activo al botón correspondiente
+  const linkActivo = document.querySelector(`nav a[data-seccion="${id}"]`);
+  if (linkActivo) {
+    linkActivo.classList.add("activo");
+  }
 }
 
 // Al cargar la página
