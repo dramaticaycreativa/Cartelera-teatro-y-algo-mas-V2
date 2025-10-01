@@ -111,4 +111,42 @@ function applyPaginationStyles() {
     }
   });
 }
+// ----------- NUEVO: Control de navegación entre pestañas -----------
+
+// Función para mostrar una sección y ocultar las demás
+function mostrarSeccion(id) {
+  document.querySelectorAll("main > section").forEach(sec => {
+    sec.style.display = "none";
+  });
+
+  const seccion = document.getElementById(id);
+  if (seccion) {
+    seccion.style.display = "block";
+  }
+}
+
+// Al cargar la página
+document.addEventListener("DOMContentLoaded", () => {
+  // Mostrar cartelera como inicio
+  mostrarSeccion("cartelera");
+
+  // Escuchar clics en el menú de navegación
+  document.querySelectorAll("nav a").forEach(link => {
+    link.addEventListener("click", e => {
+      e.preventDefault();
+      const target = e.target.getAttribute("data-seccion");
+      mostrarSeccion(target);
+    });
+  });
+});
+
+// ----------- NUEVO: Espacio inicial de reseñas -----------
+
+// Función básica para preparar reseñas (más adelante se conecta al formulario)
+function renderReseñas() {
+  const reseñasContainer = document.getElementById("reseñas-lista");
+  reseñasContainer.innerHTML = `
+    <p>Aquí aparecerán las reseñas de las obras en Jujuy. Muy pronto vas a poder dejar la tuya ⭐</p>
+  `;
+}
 
