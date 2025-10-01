@@ -1,114 +1,99 @@
 [
   {
-    "titulo": "Charla: Alma Cultural",
-    "fecha": "Miércoles 24 de septiembre - 18:30 hs",
-    "lugar": "Casa Museo Macedonio Graz, Lamadrid esq. Güemes",
-    "descripcion": "En el marco de la muestra 'Trazos Culturales' del artista Eloy Adriel Lamas.",
-    "precio": "Entrada libre y gratuita",
-    "mapa": "https://www.google.com/maps?q=Casa+Museo+Macedonio+Graz+Jujuy"
-  },
-  {
-    "titulo": "Taller y Conversatorio: Arte y Modelaje",
-    "fecha": "Jueves 25 de septiembre - 10:00 a 12:00 hs",
-    "lugar": "Centro Cultural Culturarte – Sarmiento esq. San Martín",
-    "descripcion": "Encuentro a cargo de la Prof. Analia García y el Prof. Martín Sajama. Explora el cuerpo como territorio en la historia del arte.",
-    "precio": "Entrada libre y gratuita",
-    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Culturarte+Jujuy"
-  },
-  {
-    "titulo": "Homenaje a Mito Tramontini",
-    "fecha": "Jueves 25 de septiembre - 19:00 hs",
-    "lugar": "Centro Cultural Mirentxu (Casa Baca)",
-    "descripcion": "Muestra fotográfica y homenaje a Guillermo 'Mito' Tramontini, fotógrafo jujeño con destacada trayectoria nacional e internacional.",
-    "precio": "Entrada libre y gratuita",
-    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Mirentxu+Jujuy"
-  },
-  {
-    "titulo": "Ciclo de Cine: Quémese después de leerse (2008)",
-    "fecha": "Jueves 25 de septiembre - 21:00 hs",
-    "lugar": "José de la Iglesia 1190, San Salvador de Jujuy",
-    "descripcion": "Comedia negra dirigida por los Hermanos Coen. Entrada general $4000 | Estudiantes y jubilados $2000. Reservas al 3884546228.",
-    "precio": "$4000 / $2000",
-    "mapa": "https://www.google.com/maps?q=José+de+la+Iglesia+1190+Jujuy"
-  },
-  {
-    "titulo": "Obra Teatral: El Hombre Inesperado",
-    "fecha": "Jueves 25 de septiembre - 21:30 hs",
-    "lugar": "Teatro Mitre, Alvear 1009",
-    "descripcion": "Con Germán Palacios e Inés Estévez. Entradas en ventas.autoentrada.com o en boletería del Teatro Mitre. Una comedia romántica con poesía, humor e intriga.",
-    "precio": "Consultar en ventas.autoentrada.com",
-    "mapa": "https://www.google.com/maps?q=Teatro+Mitre+Jujuy"
-  },
-   {
-    "titulo": "Cine Estreno: Verano Trippin",
-    "fecha": "Jueves 25 de septiembre - 21:15 hs | Sábado 27 de septiembre - 21:15 hs",
-    "lugar": "Cine Auditorium Julio Lencina, Independencia, casi esq. Italia, San Salvador de Jujuy",
-    "descripcion": "De Morena Fernández Quinteros. Protagonizada por Miranda de la Serna y Zoe Hochbaum, con participación de Lali Espósito. Trailer: https://www.youtube.com/watch?v=w2nv5e8_T5s",
-    "precio": "$2800 / $1400 / Personas con discapacidad: gratis",
+    "titulo": "EL CINEMATÓGRAFO: SABORES DE TERROR",
+    "fecha": "Miércoles 1 de octubre – 21:15 hs",
+    "lugar": "Cine Auditorium Julio Lencina",
+    "descripcion": "ODDITY, de Damian Mc Carthy (98min, +16). Un grupo de personas se encuentran atrapados en una casa con sucesos extraños y un siniestro.",
+    "precio": "Entrada general $2000 | Personas con discapacidad: Gratis",
     "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
   },
   {
-    "titulo": "Concierto: Canciones de amor - Sebastián Mealla",
-    "fecha": "Viernes 26 de septiembre - 21:30 hs",
-    "lugar": "Café El Pasillo, José de la Iglesia 1190",
-    "descripcion": "Presentación musical de Sebastián Mealla. Entradas en entradaweb.com.",
-    "precio": "Consultar en entradaweb.com",
+    "titulo": "CICLO DE CINE | Octubre: David Lynch",
+    "fecha": "Jueves 2 de octubre – 21:00 hs",
+    "lugar": "Teatro El Pasillo",
+    "descripcion": "Primera función: Mulholland Drive (2001). Una aspirante a actriz recién llegada a Los Ángeles conoce a Rita, una mujer amnésica tras un accidente en Mulholland Drive. Presenta Bruno Gareca.",
+    "precio": "Entrada general $4000 | Estudiantes y jubilados $2000",
     "mapa": "https://www.google.com/maps?q=José+de+la+Iglesia+1190+Jujuy"
   },
   {
-    "titulo": "Vientos de tarde - Coro de la Mejor Edad",
-    "fecha": "Viernes 26 de septiembre - 21:00 hs",
-    "lugar": "Teatro Mitre, Alvear 1009",
-    "descripcion": "Concierto del Coro de la Mejor Edad en el marco de Vientos de tarde.",
+    "titulo": "Estreno Federal: La Mujer de la Fila",
+    "fecha": "Jueves 2 de octubre – 21:15 hs y Sábado 4 de octubre – 21:15 hs",
+    "lugar": "Cine Auditorium Julio Lencina",
+    "descripcion": "Drama – Suspenso 2025 (105 min, +13) de Benjamín Ávila, protagonizada por Natalia Oreiro. Basada en la historia real de Andrea Casamento, fundadora de una red de familiares de personas detenidas.",
+    "precio": "General $2800 | Estudiantes y jubilados $1400 | Personas con discapacidad: Gratis",
+    "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
+  },
+  {
+    "titulo": "🌿 Mateando en el Parque Botánico 🌿",
+    "fecha": "Viernes 3 de octubre – 18:00 hs",
+    "lugar": "Parque Botánico Barón Schuel",
+    "descripcion": "Propuesta para toda la familia: recorrido de senderos, charlas sobre la biodiversidad de las Yungas mientras compartimos unos mates. Cupos limitados, inscripciones por WhatsApp 3884037073.",
+    "precio": "Entrada gratuita con inscripción previa",
+    "mapa": "https://maps.app.goo.gl/iy4gft9MpT4vQZJY7"
+  },
+  {
+    "titulo": "La Iniciación",
+    "fecha": "Viernes 3 de octubre – 21:30 hs",
+    "lugar": "Teatro El Pasillo",
+    "descripcion": "Versión teatral de un cuento de brujas. Dirección general de Rodolfo Pacheco. Texto de Jorge Accame. Con Noemí Salerno, Susana Arlla, Elena Acosta y Rodolfo Pacheco.",
+    "precio": "Entradas en @entradaweb",
+    "mapa": "https://www.google.com/maps?q=José+de+la+Iglesia+1190+Jujuy"
+  },
+  {
+    "titulo": "Buscando a Shakespeare",
+    "fecha": "Viernes 3 de octubre – 21:15 hs",
+    "lugar": "Cine Auditorium Julio Lencina",
+    "descripcion": "Documental de Gustavo Garzón (2025, 92 min, +13). El actor y la directora Mariana Sagasti exploran cómo se interpreta y quién es el verdadero autor detrás de la figura de Shakespeare.",
+    "precio": "General $2800 | Estudiantes y jubilados $1400 | Personas con discapacidad: Gratis",
+    "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
+  },
+  {
+    "titulo": "Experiencia: El Nombre de Griselda Gambaro",
+    "fecha": "Sábado 4 y Domingo 5 de octubre – 21:30 hs",
+    "lugar": "Teatro El Pasillo",
+    "descripcion": "Obra de Griselda Gambaro actuada y dirigida por Patricia Lubel.",
     "precio": "Consultar boletería",
+    "mapa": "https://www.google.com/maps?q=José+de+la+Iglesia+1190+Jujuy"
+  },
+  {
+    "titulo": "Pollerudo de Flaco Pasillos",
+    "fecha": "Sábado 4 de octubre – 21:00 hs",
+    "lugar": "Teatro Mitre",
+    "descripcion": "Obra teatral de Flaco Pasillos. Entradas disponibles en autoentrada.com.",
+    "precio": "Consultar en autoentrada.com",
     "mapa": "https://www.google.com/maps?q=Teatro+Mitre+Jujuy"
   },
   {
-    "titulo": "Cine Estreno: La llegada del hijo",
-    "fecha": "Viernes 26 de septiembre - 21:15 hs",
-    "lugar": "Cine Auditorium Julio Lencina, Independencia, casi esq. Italia, San Salvador de Jujuy",
-    "descripcion": "Dirigida por Cecilia Atán y Valeria Pivato. Drama familiar protagonizado por Maricel Álvarez y Angelo Mutti Spinetta. Trailer: https://www.youtube.com/watch?v=AKZxxMCQ1jw",
-    "precio": "$2800 / $1400 / Personas con discapacidad: gratis",
-    "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
-  },
-   {
-    "titulo": "Cortos en el Cine Independencia",
-    "fecha": "Sábado 27 de septiembre - 19:30 y 19:45 hs",
-    "lugar": "Cine Auditorium Julio Lencina, Independencia, casi esq. Italia, San Salvador de Jujuy",
-    "descripcion": "19:30 'Las habitaciones vacías' (Julia Pesce, 15m). 19:45 'El maestro' (Dabien-Tamagnini, 70m). Entrada solidaria. Desde 20 min antes.",
-    "precio": "Entrada solidaria",
-    "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
-  },
-  {
-    "titulo": "Sesiones de Blackout: música de alta definición en total oscuridad",
-    "fecha": "Domingo 28 de septiembre - 19:00 hs",
-    "lugar": "Teatro El Pasillo, José de la Iglesia 1190",
-    "descripcion": "Experiencia musical inmersiva en completa oscuridad. Info y entradas al 3885746466.",
-    "precio": "Consultar en boletería",
-    "mapa": "https://www.google.com/maps?q=Teatro+El+Pasillo+Jujuy"
-  },
-  {
-    "titulo": "Serie de Conciertos Candlelight: Tributo a Coldplay",
-    "fecha": "Domingo 28 de septiembre - 18:00 hs y 20:30 hs",
-    "lugar": "Teatro Mitre, Alvear 1009",
-    "descripcion": "Concierto a la luz de las velas con la música de Coldplay.",
-    "precio": "Consultar en boletería",
-    "mapa": "https://www.google.com/maps?q=Teatro+Mitre+Jujuy"
-  },
-  {
-    "titulo": "Ciclo de charlas sobre fotografia: Fotolibros",
-    "fecha": "Sábado 27 de septiembre - 18hs",
+    "titulo": "Ciclo de Charlas sobre Fotografía – De la cámara oscura a la digital",
+    "fecha": "Sábado 4 de octubre – 18:00 hs",
     "lugar": "Centro Cultural Mirentxu (Casa Baca)",
-    "descripcion": "En el marco del Dia del Fotografo en Argentina. Fotolibro a cargo de CArolina Franco",
-    "precio": "Sin costo - con certificación.",
+    "descripcion": "Conferencia a cargo de Martín Otero. Actividad gratuita en el marco del mes de la Fotografía Argentina y Latinoamericana.",
+    "precio": "Entrada gratuita",
     "mapa": "https://www.google.com/maps?q=Centro+Cultural+Mirentxu+Jujuy"
   },
   {
-    "titulo": "Muestra Pictorica: Trazos Culturales",
-    "fecha": "Sábado 13 de septiembre hasta Martes 30 de septiembre",
-    "lugar": "Casa Museo Macedonio Graz, Lamadrid esq. Güemes",
-    "descripcion": "A cargo del artista Eloy Adriel Lamas.",
-    "precio": "Entrada libre y gratuita",
-    "mapa": "https://www.google.com/maps?q=Casa+Museo+Macedonio+Graz+Jujuy"
+    "titulo": "Proyección Especial – Mes de la Identidad",
+    "fecha": "Domingo 5 de octubre – 19:00 hs",
+    "lugar": "Cine Auditorium Julio Lencina",
+    "descripcion": "Proyección del documental 'Revelar. Indicios de Identidad' de Fermín Rivera (69 min, ATP) con charla posterior junto al director y el DF Emiliano Penelas.",
+    "precio": "Entrada gratuita",
+    "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
+  },
+  {
+    "titulo": "Mariposas: después de la lluvia",
+    "fecha": "Viernes 10 de octubre – 21:30 hs",
+    "lugar": "El Inmigrante Club de Arte",
+    "descripcion": "Obra de Rafael Nofal en Independencia 1016, con reserva previa al 3884563242.",
+    "precio": "Entrada con reserva previa",
+    "mapa": "https://maps.app.goo.gl/8C7JPRbfPRfXyXxw8"
+  },
+  {
+    "titulo": "Voces de la Cultura – Taller de Comunicación y Oratoria",
+    "fecha": "Viernes 17 de octubre – 19:30 a 21:00 hs",
+    "lugar": "Centro Cultural Mirentxu (Casa Baca)",
+    "descripcion": "Taller de 8 clases para mejorar habilidades de oratoria, lectura y comunicación. Incluye certificado digital. Desde los 15 años.",
+    "precio": "Actividad con costo, inscripción por WhatsApp al 5493874119196",
+    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Mirentxu+Jujuy"
   }
 ]
+
