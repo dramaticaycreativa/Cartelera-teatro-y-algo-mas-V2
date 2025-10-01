@@ -78,29 +78,33 @@ footer .copy {
 nav {
   display: flex;
   justify-content: center;
-  margin: 1rem 0;
+  margin: 1.5rem 0;
 }
 
 nav ul {
   display: flex;
-  gap: 2rem;
+  gap: 4rem; /* más separación entre botones */
   list-style: none;
   padding: 0;
 }
 
 nav ul li a {
-  padding: 0.5rem 1.2rem;
+  color: #fff; /* texto blanco por defecto */
+  padding: 0.6rem 1.5rem;
   border-radius: 8px;
   transition: all 0.3s ease;
   text-decoration: none;
-  font-size: 1.2rem;
+  font-size: 1.5rem; /* más grande, similar a header h2 */
+  font-family: 'League Gothic', sans-serif;
+  letter-spacing: 1px;
 }
 
 nav ul li a:hover {
-  background-color: #d9b843;
-  color: #2b3e79;
+  color: #d9b843; /* amarillo al pasar el cursor */
+  background-color: rgba(255, 255, 255, 0.1); /* leve sombreado detrás */
   box-shadow: 0 4px 10px rgba(217, 184, 67, 0.5);
 }
+
 
 /* --- Estilos generales para reseñas --- */
 .reviews-container {
