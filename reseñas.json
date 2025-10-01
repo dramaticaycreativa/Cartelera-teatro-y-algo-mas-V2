@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "titulo": "La Casa de los Espejos",
+    "sinopsis": "Un drama psicológico que explora la identidad y la memoria a través de una familia atrapada en secretos.",
+    "elenco": {
+      "director": "María Gómez",
+      "producción": "Teatro del Sol",
+      "asistentes": ["Jorge Salinas", "Lucía Torres"],
+      "actores": ["Ana Ríos", "Carlos Méndez", "Sofía Herrera"]
+    },
+    "reseñas": [
+      {
+        "nombre": "Juan Pérez",
+        "fecha": "2025-09-20",
+        "comentario": "Una obra profunda, con un elenco muy sólido. Me dejó pensando mucho.",
+        "estrellas": 5
+      },
+      {
+        "nombre": "Laura Fernández",
+        "fecha": "2025-09-22",
+        "comentario": "El ritmo fue un poco lento al inicio, pero luego atrapante.",
+        "estrellas": 4
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Risas en la Oscuridad",
+    "sinopsis": "Comedia negra que combina humor ácido con situaciones absurdas en una ciudad caótica.",
+    "elenco": {
+      "director": "Federico Ruiz",
+      "producción": "Compañía Andina",
+      "asistentes": ["Marta Villalba"],
+      "actores": ["Tomás Aguilar", "Valentina Castro", "Diego López"]
+    },
+    "reseñas": [
+      {
+        "nombre": "Carolina Díaz",
+        "fecha": "2025-09-18",
+        "comentario": "Me reí muchísimo, aunque el final fue inesperadamente oscuro.",
+        "estrellas": 4
+      },
+      {
+        "nombre": "Martín Silva",
+        "fecha": "2025-09-19",
+        "comentario": "Gran química en el elenco, muy entretenida.",
+        "estrellas": 5
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "El Viaje Infinito",
+    "sinopsis": "Un musical que narra la travesía de un grupo de viajeros en busca de un lugar donde pertenecer.",
+    "elenco": {
+      "director": "Camila Ortega",
+      "producción": "Escena Viva",
+      "asistentes": ["Santiago Paredes", "Andrea Molina"],
+      "actores": ["Gabriela Soto", "Ignacio Ramírez", "Lola Suárez", "Pedro Alarcón"]
+    },
+    "reseñas": [
+      {
+        "nombre": "Sofía Navarro",
+        "fecha": "2025-09-25",
+        "comentario": "La música en vivo fue espectacular, voces increíbles.",
+        "estrellas": 5
+      },
+      {
+        "nombre": "Andrés Herrera",
+        "fecha": "2025-09-26",
+        "comentario": "Muy visual y conmovedora, aunque un poco extensa.",
+        "estrellas": 4
+      }
+    ]
+  }
+]
