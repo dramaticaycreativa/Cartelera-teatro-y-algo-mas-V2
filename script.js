@@ -1,6 +1,7 @@
 let activities = [];
 let currentPage = 1;
 const itemsPerPage = 5;
+let obras = [];
 
 // Cargar actividades desde data.json
 fetch("data.json")
@@ -259,7 +260,11 @@ function mostrarSeccion(id) {
 
   // Si es reseñas, renderizarlas pasando las obras cargadas
   if (id === "reseñas") {
+    if (obras.length > 0) {
     renderReseñas(obras); // obras es el array que cargaste desde obras.json
-  }
+  }  else {
+      console.log("Obras todavía no cargadas");
+    }
+    
 }
 
