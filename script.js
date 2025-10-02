@@ -231,7 +231,7 @@ function renderReseñas(obras) {
   });
 }
 // -------------------- Cargar obras y CSV --------------------
-const sheetURL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTJOKU6xHIN5oTjo5tRdpgAmIzO7aGM7_iZ1A1LxsMpNrSGkZFjgJ7xOTatsbpLRBJZcvjNK5XSS7JD/pub?output=csv";
+const sheetURL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTJOKU6xHIN5oTjo5tRdpgAmIzO7aGM7_iZ1A1LxsMpNrSGkZFjgJ7xOTatsbpLRBJZcvjNK5XSS7JD/pub?gid=1569145678&single=true&output=csv";
 
 function cargarObrasYResenas() {
   fetch("obras.json")
