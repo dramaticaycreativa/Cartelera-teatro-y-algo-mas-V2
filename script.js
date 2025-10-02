@@ -153,12 +153,12 @@ document.addEventListener("DOMContentLoaded", () => {
 // ----------- NUEVO: Espacio inicial de reseñas -----------
 
 // ----------- Reseñas dinámicas -----------
+const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLScWZaJN0yjx3qKTDj2qF-CXviy6NwnU41gX9YrFbhAt3NNEFg/viewform?usp=header"; // Formulario único para todas las obras
 
 function renderReseñas() {
   const reseñasContainer = document.getElementById("reseñas-lista");
   reseñasContainer.innerHTML = ""; // limpiar
 
-  // Cargar obras desde obras.json
   fetch("obras.json")
     .then(response => response.json())
     .then(obras => {
@@ -173,13 +173,13 @@ function renderReseñas() {
 
           <!-- Formulario de Google embebido -->
           <div class="formulario-container">
-            <iframe src="${obra.formulario}?embedded=true" 
+            <iframe src="${GOOGLE_FORM_URL}?embedded=true" 
               width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">
               Cargando formulario…
             </iframe>
           </div>
 
-          <!-- Aquí se mostrarán las reseñas desde la hoja de cálculo -->
+          <!-- Contenedor de comentarios filtrados -->
           <div id="reseñas-obra-${obra.id}" class="comentarios-container">
             <p>📑 Las reseñas aparecerán aquí automáticamente.</p>
           </div>
@@ -187,8 +187,8 @@ function renderReseñas() {
 
         reseñasContainer.appendChild(section);
 
-        // Llamada futura: cargar reseñas desde la hoja
-        // loadReseñasFromSheet(obra.id);
+        // Aquí luego filtraremos la hoja de cálculo según obra.id
+        // loadReseñasFromSheet(obra.id, obra.titulo);
       });
     })
     .catch(error => {
@@ -196,6 +196,7 @@ function renderReseñas() {
       console.error("Error cargando obras:", error);
     });
 }
+
 //Activar cuando se abre la pestaña Reseñas
 function mostrarSeccion(id) {
   document.querySelectorAll("main > section").forEach(sec => {
