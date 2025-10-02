@@ -218,7 +218,8 @@ function renderReseñas(obras) {
               <p><strong>${r.Nombre}</strong> (${r.Fecha})</p>
               <p>⭐ ${r.Puntuación}/5</p>
               <p><em>Aspectos destacados:</em> ${r.Aspectos}</p>
-              <p>${r.Experiencia}</p>
+              <p><em>Experiencia:</em> ${r.Experiencia}</p>
+              <p><em>Recomendaría:</em> ${r.Recomendaría}</p>
               ${r.ComentarioAdicional ? `<p><em>Comentario adicional:</em> ${r.ComentarioAdicional}</p>` : ""}
             </div>
           `).join("") : "<p>No hay reseñas aún.</p>"}
