@@ -257,13 +257,12 @@ function mostrarSeccion(id) {
   if (seccion) {
     seccion.style.display = "block";
   }
-}
   // Si es reseñas, renderizarlas pasando las obras cargadas
   if (id === "reseñas") {
-    if (obras.length > 0) {
-    renderReseñas(obras); // obras es el array que cargaste desde obras.json
-  }  else {
+    if (typeof obras !== "undefined" && obras.length > 0) {
+      renderReseñas(obras); // obras es el array que cargaste desde obras.json
+    } else {
       console.log("Obras todavía no cargadas");
-    }    
+    }
+  } 
 }
-
