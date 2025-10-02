@@ -148,53 +148,102 @@ document.addEventListener("DOMContentLoaded", () => {
       mostrarSeccion(target);
     });
   });
+   // Cargar obras y comentarios
+  cargarObrasYResenas();
 });
 
 // ----------- NUEVO: Espacio inicial de reseñas -----------
 
 // ----------- Reseñas dinámicas -----------
 const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLScWZaJN0yjx3qKTDj2qF-CXviy6NwnU41gX9YrFbhAt3NNEFg/viewform?usp=header"; // Formulario único para todas las obras
+const sheetURL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTJOKU6xHIN5oTjo5tRdpgAmIzO7aGM7_iZ1A1LxsMpNrSGkZFjgJ7xOTatsbpLRBJZcvjNK5XSS7JD/pub?output=csv";
 
-function renderReseñas() {
-  const reseñasContainer = document.getElementById("reseñas-lista");
-  reseñasContainer.innerHTML = ""; // limpiar
+// -------------------- CSV Parsing --------------------
+function parseCSV(csvText) {
+  const lines = csvText.trim().split("\n");
+  const headers = lines[0].split(",");
 
-  fetch("obras.json")
-    .then(response => response.json())
-    .then(obras => {
-      obras.forEach(obra => {
-        const section = document.createElement("section");
-        section.classList.add("review-card");
-
-        section.innerHTML = `
-          <h3>🎭 ${obra.titulo}</h3>
-          <p><strong>Sinopsis:</strong> ${obra.sinopsis}</p>
-          <p><strong>Elenco:</strong> ${obra.elenco}</p>
-
-          <!-- Formulario de Google embebido -->
-          <div class="formulario-container">
-            <iframe src="${GOOGLE_FORM_URL}?embedded=true" 
-              width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">
-              Cargando formulario…
-            </iframe>
-          </div>
-
-          <!-- Contenedor de comentarios filtrados -->
-          <div id="reseñas-obra-${obra.id}" class="comentarios-container">
-            <p>📑 Las reseñas aparecerán aquí automáticamente.</p>
-          </div>
-        `;
-
-        reseñasContainer.appendChild(section);
-
-        // Aquí luego filtraremos la hoja de cálculo según obra.id
-        // loadReseñasFromSheet(obra.id, obra.titulo);
-      });
-    })
-    .catch(error => {
-      reseñasContainer.innerHTML = "<p>Error cargando reseñas.</p>";
-      console.error("Error cargando obras:", error);
+  const data = lines.slice(1).map(line => {
+    const values = line.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/); // manejo de comillas
+    const obj = {};
+    headers.forEach((header, i) => {
+      obj[header.trim().replace(/"/g, "")] = values[i].trim().replace(/"/g, "");
     });
+    return obj;
+  });
+
+  return data;
+}
+
+// -------------------- Filtrar comentarios por obra --------------------
+  function filtrarComentarios(obras, comentariosCSV) {
+    obras.forEach(obra => {
+       // Filtrar comentarios para esta obra
+       obra.reseñas = comentariosCSV.filter(c => c.Obra === obra.titulo);
+      });
+  }
+// -------------------- Renderizar reseñas --------------------
+function renderReseñas(obras) {
+  const reseñasContainer = document.getElementById("reseñas-lista");
+  reseñasContainer.innerHTML = "";
+
+  obras.forEach(obra => {
+    const obraCard = document.createElement("div");
+    obraCard.classList.add("review-card");
+
+  // Calcular promedio de estrellas
+    let promedio = 0;
+    if (obra.reseñas && obra.reseñas.length > 0) {
+      const suma = obra.reseñas.reduce((acc, r) => acc + Number(r.Puntuación), 0);
+      promedio = (suma / obra.reseñas.length).toFixed(1); // 1 decimal
+    }
+
+    // Crear representación visual de estrellas
+    let estrellasVisual = "";
+    for (let i = 1; i <= 5; i++) {
+      estrellasVisual += i <= Math.round(promedio) ? "⭐" : "☆";
+    }
+
+    obraCard.innerHTML = `
+      <h3>🎭 ${obra.titulo}</h3>
+      <p><strong>Promedio:</strong> ${promedio} / 5 ${estrellasVisual}</p>
+      <p><strong>Sinopsis:</strong> ${obra.sinopsis}</p>
+      <p><strong>Elenco:</strong> ${obra.elenco}</p>
+      <details>
+        <summary>Ver reseñas</summary>
+        <div>
+          ${obra.reseñas && obra.reseñas.length > 0 ? obra.reseñas.map(r => `
+            <div class="comment-box">
+              <p><strong>${r.Nombre}</strong> (${r.Fecha})</p>
+              <p>⭐ ${r.Puntuación}/5</p>
+              <p>${r.Experiencia}</p>
+            </div>
+          `).join("") : "<p>No hay reseñas aún.</p>"}
+          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScWZaJN0yjx3qKTDj2qF-CXviy6NwnU41gX9YrFbhAt3NNEFg/viewform?usp=header" target="_blank">Deja tu reseña aquí</a></p>
+        </div>
+      </details>
+    `;
+
+    reseñasContainer.appendChild(obraCard);
+  });
+}
+// -------------------- Cargar obras y CSV --------------------
+const sheetURL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTJOKU6xHIN5oTjo5tRdpgAmIzO7aGM7_iZ1A1LxsMpNrSGkZFjgJ7xOTatsbpLRBJZcvjNK5XSS7JD/pub?output=csv";
+
+function cargarObrasYResenas() {
+  fetch("obras.json")
+    .then(res => res.json())
+    .then(obras => {
+      fetch(sheetURL)
+        .then(res => res.text())
+        .then(csvText => {
+          const comentariosCSV = parseCSV(csvText);
+          filtrarComentarios(obras, comentariosCSV);
+          renderReseñas(obras);
+        })
+        .catch(err => console.error("Error cargando CSV de Google Sheets:", err));
+    })
+    .catch(err => console.error("Error cargando obras.json:", err));
 }
 
 //Activar cuando se abre la pestaña Reseñas
@@ -208,9 +257,9 @@ function mostrarSeccion(id) {
     seccion.style.display = "block";
   }
 
-  // Si es reseñas, renderizarlas
+  // Si es reseñas, renderizarlas pasando las obras cargadas
   if (id === "reseñas") {
-    renderReseñas();
+    renderReseñas(obras); // obras es el array que cargaste desde obras.json
   }
 }
 
