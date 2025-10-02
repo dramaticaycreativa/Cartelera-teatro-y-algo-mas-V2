@@ -156,7 +156,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // ----------- Reseñas dinámicas -----------
 const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLScWZaJN0yjx3qKTDj2qF-CXviy6NwnU41gX9YrFbhAt3NNEFg/viewform?usp=header"; // Formulario único para todas las obras
-const sheetURL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTJOKU6xHIN5oTjo5tRdpgAmIzO7aGM7_iZ1A1LxsMpNrSGkZFjgJ7xOTatsbpLRBJZcvjNK5XSS7JD/pub?output=csv";
+//const sheetURL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTJOKU6xHIN5oTjo5tRdpgAmIzO7aGM7_iZ1A1LxsMpNrSGkZFjgJ7xOTatsbpLRBJZcvjNK5XSS7JD/pub?output=csv";
 
 // -------------------- CSV Parsing --------------------
 function parseCSV(csvText) {
