@@ -217,7 +217,9 @@ function renderReseñas(obras) {
             <div class="comment-box">
               <p><strong>${r.Nombre}</strong> (${r.Fecha})</p>
               <p>⭐ ${r.Puntuación}/5</p>
+              <p><em>Aspectos destacados:</em> ${r.Aspectos}</p>
               <p>${r.Experiencia}</p>
+              ${r.ComentarioAdicional ? `<p><em>Comentario adicional:</em> ${r.ComentarioAdicional}</p>` : ""}
             </div>
           `).join("") : "<p>No hay reseñas aún.</p>"}
           <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScWZaJN0yjx3qKTDj2qF-CXviy6NwnU41gX9YrFbhAt3NNEFg/viewform?usp=header" target="_blank">Deja tu reseña aquí</a></p>
