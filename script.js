@@ -234,7 +234,8 @@ const sheetURL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTJOKU6xHIN5oT
 function cargarObrasYResenas() {
   fetch("obras.json")
     .then(res => res.json())
-    .then(obras => {
+    .then(data => {
+      obras = data; 
       fetch(sheetURL)
         .then(res => res.text())
         .then(csvText => {
