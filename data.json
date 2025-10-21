@@ -1,115 +1,93 @@
 [
   {
-    "titulo": "EL CINEMATÓGRAFO: SABORES DE TERROR",
-    "fecha": "Miércoles 1 de octubre – 21:15 hs",
-    "lugar": "Cine Auditorium Julio Lencina",
-    "descripcion": "ODDITY, de Damian Mc Carthy (98min, +16). Un grupo de personas se encuentran atrapados en una casa con sucesos extraños y un siniestro.",
-    "precio": "Entrada general $2000 | Personas con discapacidad: Gratis",
+    "titulo": "Muestra de artes visuales “Despojados de conciencia”",
+    "fecha": "Miércoles 22 de octubre – 20:00 hs",
+    "lugar": "Centro Cultural Héctor Tizón",
+    "descripcion": "Muestra del artista Fernando Acosta. Reflexión visual sobre el sentido original del carnaval y sus transformaciones. Una exposición que interpela sobre la pérdida de respeto hacia la tierra y las tradiciones.",
+    "precio": "Entrada libre y gratuita",
+    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Héctor+Tizón+Jujuy"
+  },
+   {
+    "titulo": "The Wailing 🎬",
+    "fecha": "Miércoles 22 de octubre – 21:15 hs",
+    "lugar": "Cine Auditorium Julio Lencina (Espacio INCAA Mercosur)",
+    "descripcion": "Poco después de que un extraño llegue a una pequeña aldea, una misteriosa enfermedad comienza a transmitirse. Dirigida por Hong-Jin Na. Duración: 156 min. Clasificación: +16.",
+    "precio": "Entrada general $2000 | Personas con discapacidad: gratuita",
     "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
   },
-  {
-    "titulo": "CICLO DE CINE | Octubre: David Lynch",
-    "fecha": "Jueves 2 de octubre – 21:00 hs",
+   {
+    "titulo": "CICLO DE CINE | Octubre: David Lynch – Corazón Salvaje",
+    "fecha": "Jueves 23 de octubre – 21:30 hs",
     "lugar": "Teatro El Pasillo",
-    "descripcion": "Primera función: Mulholland Drive (2001). Una aspirante a actriz recién llegada a Los Ángeles conoce a Rita, una mujer amnésica tras un accidente en Mulholland Drive. Presenta Bruno Gareca.",
+    "descripcion": "Durante un permiso carcelario, Sailor se escapa con su novia Lula rumbo a California. La madre de Lula, que oculta un crimen pasado, contrata una mafia para eliminarlo. Dirección: David Lynch.",
     "precio": "Entrada general $4000 | Estudiantes y jubilados $2000",
     "mapa": "https://www.google.com/maps?q=José+de+la+Iglesia+1190+Jujuy"
   },
-  {
-    "titulo": "Estreno Federal: La Mujer de la Fila",
-    "fecha": "Jueves 2 de octubre – 21:15 hs y Sábado 4 de octubre – 21:15 hs",
-    "lugar": "Cine Auditorium Julio Lencina",
-    "descripcion": "Drama – Suspenso 2025 (105 min, +13) de Benjamín Ávila, protagonizada por Natalia Oreiro. Basada en la historia real de Andrea Casamento, fundadora de una red de familiares de personas detenidas.",
-    "precio": "General $2800 | Estudiantes y jubilados $1400 | Personas con discapacidad: Gratis",
+   {
+    "titulo": "La noche sin mí 🎬",
+    "fecha": "Jueves 23 y Sábado 25 de octubre – 21:15 hs",
+    "lugar": "Cine Auditorium Julio Lencina (Espacio INCAA Mercosur)",
+    "descripcion": "Eva se percibe diferente. Un hecho inesperado la transforma. Su universo femenino es puesto en tensión, sosteniendo lo insostenible en la estructura familiar. Con Natalia Oreiro y Pablo Cura. Dirección de María Laura Berch y Laura Chiabrando.",
+    "precio": "Entrada general $2800 | Jubilados y estudiantes $1400 | Personas con discapacidad: gratuita",
     "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
   },
   {
-    "titulo": "Mateando en el Parque Botánico 🌿",
-    "fecha": "Viernes 3 de octubre – 18:00 hs",
-    "lugar": "Parque Botánico Barón Schuel",
-    "descripcion": "Propuesta para toda la familia: recorrido de senderos, charlas sobre la biodiversidad de las Yungas mientras compartimos unos mates. Cupos limitados, inscripciones por WhatsApp 3884037073.",
-    "precio": "Entrada gratuita con inscripción previa",
-    "mapa": "https://www.google.com/maps?q=Parque+Botánico+Municipal+Barón+Carlos+María+Schüel"
+    "titulo": "“Estoy Acá” – Compañía La Hormiga (desde Rosario)",
+    "fecha": "Viernes 24 de octubre – 21:00 hs",
+    "lugar": "La Mar en Coche, Puna 173, B° San Pedrito, San Salvador de Jujuy",
+    "descripcion": "Teatro de objetos y materiales para adultxs, jóvenes y adolescentes. Intérprete: Cecilia Piazza. Dirección: María Celia Fernández. Obra distinguida en el Premio Nacional Javier Villafañe 2024. Una propuesta poética y sensorial sobre la transformación y la búsqueda interior.",
+    "precio": "Entrada general $8000 | Anticipadas $7000 (al 3884334389)",
+    "mapa": "https://www.google.com/maps?q=Teatro+La+Mar+en+Coche+Multiespacio"
+  },
+  {
+    "titulo": "Rocío Fuenzalida presenta “Mi Canto y la Danza”",
+    "fecha": "Viernes 24 de octubre – 21:00 hs",
+    "lugar": "Centro Cultural Héctor Tizón",
+    "descripcion": "Espectáculo folclórico que recorre nuevas canciones y clásicos tradicionales. Participación especial del cuerpo de danzas nativas La Trunca. Un show lleno de identidad y emoción.",
+    "precio": "Entrada general $8000 | Anticipadas al 3883332755 / 3884788543",
+    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Héctor+Tizón+Jujuy"
+  },
+  {
+    "titulo": "Miss Carbón 🎬",
+    "fecha": "Viernes 24 de octubre – 21:15 hs",
+    "lugar": "Cine Auditorium Julio Lencina (Espacio INCAA Mercosur)",
+    "descripcion": "Carlita logró ser la primera mujer minera en un pueblo donde las mujeres tenían prohibida la entrada a la mina. Como mujer trans, rompió el sistema desde dentro y encendió la chispa de una revolución. Con Lux Pascal, Laura Grandinetti, Paco León, Romina Escobar y Simone Mercado. Dirección de Agustina Macri.",
+    "precio": "Entrada general $2800 | Jubilados y estudiantes $1400 | Personas con discapacidad: gratuita",
+    "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
   },
   {
     "titulo": "La Iniciación",
-    "fecha": "Viernes 3 de octubre – 21:30 hs",
+    "fecha": "Sábado 25 de octubre – 19:00 hs",
     "lugar": "Teatro El Pasillo",
     "descripcion": "Versión teatral de un cuento de brujas. Dirección general de Rodolfo Pacheco. Texto de Jorge Accame. Con Noemí Salerno, Susana Arlla, Elena Acosta y Rodolfo Pacheco.",
     "precio": "Entradas en @entradaweb",
     "mapa": "https://www.google.com/maps?q=José+de+la+Iglesia+1190+Jujuy"
   },
-  {
-    "titulo": "Buscando a Shakespeare",
-    "fecha": "Viernes 3 de octubre – 21:15 hs",
-    "lugar": "Cine Auditorium Julio Lencina",
-    "descripcion": "Documental de Gustavo Garzón (2025, 92 min, +13). El actor y la directora Mariana Sagasti exploran cómo se interpreta y quién es el verdadero autor detrás de la figura de Shakespeare.",
-    "precio": "General $2800 | Estudiantes y jubilados $1400 | Personas con discapacidad: Gratis",
-    "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
-  },
-  {
-    "titulo": "Experiencia: El Nombre de Griselda Gambaro",
-    "fecha": "Sábado 4 y Domingo 5 de octubre – 21:30 hs",
-    "lugar": "Teatro El Pasillo",
-    "descripcion": "Obra de Griselda Gambaro actuada y dirigida por Patricia Lubel.",
-    "precio": "Consultar boletería",
-    "mapa": "https://www.google.com/maps?q=José+de+la+Iglesia+1190+Jujuy"
-  },
-  {
-    "titulo": "Pollerudo de Flaco Pasillos",
-    "fecha": "Sábado 4 de octubre – 21:00 hs",
-    "lugar": "Teatro Mitre",
-    "descripcion": "Obra teatral de Flaco Pasillos. Entradas disponibles en autoentrada.com.",
-    "precio": "Consultar en autoentrada.com",
-    "mapa": "https://www.google.com/maps?q=Teatro+Mitre+Jujuy"
-  },
-  {
-    "titulo": "Ciclo de Charlas sobre Fotografía – De la cámara oscura a la digital",
-    "fecha": "Sábado 4 de octubre – 18:00 hs",
-    "lugar": "Centro Cultural Mirentxu (Casa Baca)",
-    "descripcion": "Conferencia a cargo de Martín Otero. Actividad gratuita en el marco del mes de la Fotografía Argentina y Latinoamericana.",
-    "precio": "Entrada gratuita",
-    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Mirentxu+Jujuy"
-  },
-  {
-    "titulo": "Proyección Especial – Mes de la Identidad",
-    "fecha": "Domingo 5 de octubre – 19:00 hs",
-    "lugar": "Cine Auditorium Julio Lencina",
-    "descripcion": "Proyección del documental 'Revelar. Indicios de Identidad' de Fermín Rivera (69 min, ATP) con charla posterior junto al director y el DF Emiliano Penelas.",
-    "precio": "Entrada gratuita",
-    "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
-  },
-  {
-    "titulo": "Peña familiar del Accame 💃🕺",
-    "fecha": "Domingo 5 de octubre – 18:00 hs a 21:00 hs",
-    "lugar": "Centro Cultural Jorge Accame",
-    "descripcion": "Peña familiar libre y gratuita.",
-    "precio": "Entrada gratuita",
-    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Jorge+Accame"
-  },
-  {
-    "titulo": "Inaguración Muestra Salón Provincial de Artes Visuales VI",
+   {
+    "titulo": "Muestra Salón Provincial de Artes Visuales VI",
     "fecha": "Viernes 3 al Viernes 31 de octubre – 20:00 hs",
-    "lugar": "Centro Cultural Culturarte, Sarmiento esq. San Martin",
-    "descripcion": "Del 03 al 31 de octubre podés disfrutar de lo mejor del arte jujeño en tres espacios: Culturarte, Casa Macedonio Graz y Casa Silvetti. Obras en fotografía, grabado y pintura se encuentran en esta nueva edición que reúne talento, creatividad y expresión",
-    "precio": "Libre y gratuita",
-    "mapa": "https://www.google.com/maps?q=Culturarte+Centro+Cultural"
+    "lugar": "Centro Cultural Culturarte, Sarmiento esq. San Martín",
+    "descripcion": "Exposición colectiva que reúne obras de fotografía, grabado y pintura de artistas jujeños. Muestra conjunta entre Culturarte, Casa Macedonio Graz y Casa Silvetti.",
+    "precio": "Entrada libre y gratuita",
+    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Culturarte+Jujuy"
   },
   {
-    "titulo": "Mariposas: después de la lluvia 🦋",
-    "fecha": "Viernes 10 de octubre – 21:30 hs",
-    "lugar": "El Inmigrante Club de Arte",
-    "descripcion": "Obra de Rafael Nofal en Independencia 1016, con reserva previa al 3884563242.",
-    "precio": "Entrada con reserva previa",
-    "mapa": "https://www.google.com/maps?q=El+Inmigrante+Club+de+Arte"
+    "titulo": "Clínica de Obra: Miradas en diálogo para proyectos en desarrollo",
+    "fecha": "5 al 8 de noviembre – 19:00 a 22:00 hs (último día 9:00 a 12:00 hs)",
+    "lugar": "Centro Cultural Culturarte, Sarmiento esq. San Martín",
+    "descripcion": "Clínica dirigida por el Magíster Marcelo Coca, destinada a artistas visuales que deseen profundizar en los aspectos conceptuales, formales y contextuales de sus obras. Inscripciones del 20 de octubre al 3 de noviembre. Cupos limitados.",
+    "precio": "Actividad gratuita con inscripción previa al 3884140673",
+    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Culturarte+Jujuy"
   },
   {
-    "titulo": "Voces de la Cultura – Taller de Comunicación y Oratoria",
-    "fecha": "Viernes 17 de octubre – 19:30 a 21:00 hs",
-    "lugar": "Centro Cultural Mirentxu (Casa Baca)",
-    "descripcion": "Taller de 8 clases para mejorar habilidades de oratoria, lectura y comunicación. Incluye certificado digital. Desde los 15 años.",
-    "precio": "Actividad con costo, inscripción por WhatsApp al 5493874119196",
-    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Mirentxu+Jujuy"
+    "titulo": "Morí Por Amarte | ESTRENO",
+    "fecha": "Jueves 7 de noviembre – 22:00 hs",
+    "lugar": "Instituto Superior Delta, Ramírez de Velazco 150",
+    "descripcion": "Obra teatral de Ledu López. En la intimidad de una habitación, Luis y Nico desnudan sus miedos, su deseo y la frontera entre amar y dominar. Con Joaquín Galarza y Eduardo López. Dirección: Eduardo López. Asistencia: Támara Valenzuela.",
+    "precio": "Anticipadas $10.000 (transferencia) | En puerta $12.000 | Tel. 3815716471",
+    "mapa": "https://www.google.com/maps?q=Instituto+Superior+Delta+Jujuy"
   }
+]
+
 ]
 
