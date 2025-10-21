@@ -135,12 +135,18 @@ function mostrarSeccion(id) {
     linkActivo.classList.add("activo");
   }
 }
+  // Al cargar la página
+  document.addEventListener("DOMContentLoaded", () => {
+  // Detectar si la URL contiene el parámetro ?seccion=reseñas
+  const params = new URLSearchParams(window.location.search);
+  const seccion = params.get("seccion");
 
-// Al cargar la página
-document.addEventListener("DOMContentLoaded", () => {
-  // Mostrar cartelera como inicio
-  mostrarSeccion("cartelera");
-
+  // Si el parámetro dice "reseñas", mostrar esa sección; si no, cartelera
+  if (seccion === "reseñas") {
+    mostrarSeccion("reseñas");
+  } else {
+    mostrarSeccion("cartelera");
+  }
   // Escuchar clics en el menú de navegación
   document.querySelectorAll("nav a").forEach(link => {
     link.addEventListener("click", e => {
