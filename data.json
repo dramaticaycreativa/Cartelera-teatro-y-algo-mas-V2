@@ -1,69 +1,85 @@
 [
   {
-    "titulo": "Muestra de artes visuales “Despojados de conciencia”",
-    "fecha": "Miércoles 22 de octubre – 20:00 hs",
-    "lugar": "Centro Cultural Héctor Tizón",
-    "descripcion": "Muestra del artista Fernando Acosta. Reflexión visual sobre el sentido original del carnaval y sus transformaciones. Una exposición que interpela sobre la pérdida de respeto hacia la tierra y las tradiciones.",
-    "precio": "Entrada libre y gratuita",
-    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Héctor+Tizón+Jujuy"
-  },
-   {
-    "titulo": "The Wailing 🎬",
-    "fecha": "Miércoles 22 de octubre – 21:15 hs",
-    "lugar": "Cine Auditorium Julio Lencina (Espacio INCAA Mercosur)",
-    "descripcion": "Poco después de que un extraño llegue a una pequeña aldea, una misteriosa enfermedad comienza a transmitirse. Dirigida por Hong-Jin Na. Duración: 156 min. Clasificación: +16.",
-    "precio": "Entrada general $2000 | Personas con discapacidad: gratuita",
-    "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
-  },
-   {
-    "titulo": "CICLO DE CINE | Octubre: David Lynch – Corazón Salvaje",
-    "fecha": "Jueves 23 de octubre – 21:30 hs",
+    "titulo": "MULA PARDA ft. NADIA SZACHNIUK | Gira Noroeste Argentino",
+    "fecha": "Miércoles 29 de octubre – 21:30 hs",
     "lugar": "Teatro El Pasillo",
-    "descripcion": "Durante un permiso carcelario, Sailor se escapa con su novia Lula rumbo a California. La madre de Lula, que oculta un crimen pasado, contrata una mafia para eliminarlo. Dirección: David Lynch.",
-    "precio": "Entrada general $4000 | Estudiantes y jubilados $2000",
+    "descripcion": "El trío Mula Parda y la cantante Nadia Szachniuk llegan a Teatro El Pasillo con una propuesta que enlaza tradición, búsqueda personal y nuevas sonoridades dentro del folklore argentino. Un recorrido por obras instrumentales y vocales que evocan los paisajes y emociones del norte, en un diálogo entre la voz, la guitarra, el piano, el violín y la flauta.",
+    "precio": "Entradas disponibles en EntradaWeb",
     "mapa": "https://www.google.com/maps?q=José+de+la+Iglesia+1190+Jujuy"
   },
-   {
-    "titulo": "La noche sin mí 🎬",
-    "fecha": "Jueves 23 y Sábado 25 de octubre – 21:15 hs",
+  {
+    "titulo": "CICLO DE CINE | Suspiria (2018)",
+    "fecha": "Jueves 30 de octubre – 21:00 hs",
+    "lugar": "Teatro El Pasillo",
+    "descripcion": "Dirección: Luca Guadagnino. En el Berlín de 1977, una joven bailarina se une a una prestigiosa academia de danza… pero algo oscuro y antiguo habita entre sus paredes. Con una puesta visual hipnótica, una atmósfera inquietante y una banda sonora envolvente de Thom Yorke, Suspiria se sumerge en el arte, el sacrificio y la brujería.",
+    "precio": "Entrada general: $4000 | Estudiantes y jubilados: $2000. Reservas: 388 4546228",
+    "mapa": "https://www.google.com/maps?q=José+de+la+Iglesia+1190+Jujuy"
+  },
+  {
+    "titulo": "NORMA TAMBIÉN",
+    "fecha": "Jueves 30 de octubre – 21:15 hs",
     "lugar": "Cine Auditorium Julio Lencina (Espacio INCAA Mercosur)",
-    "descripcion": "Eva se percibe diferente. Un hecho inesperado la transforma. Su universo femenino es puesto en tensión, sosteniendo lo insostenible en la estructura familiar. Con Natalia Oreiro y Pablo Cura. Dirección de María Laura Berch y Laura Chiabrando.",
-    "precio": "Entrada general $2800 | Jubilados y estudiantes $1400 | Personas con discapacidad: gratuita",
-    "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
-  },
-  {
-    "titulo": "“Estoy Acá” – Compañía La Hormiga (desde Rosario)",
-    "fecha": "Viernes 24 de octubre – 21:00 hs",
-    "lugar": "La Mar en Coche, Puna 173, B° San Pedrito, San Salvador de Jujuy",
-    "descripcion": "Teatro de objetos y materiales para adultxs, jóvenes y adolescentes. Intérprete: Cecilia Piazza. Dirección: María Celia Fernández. Obra distinguida en el Premio Nacional Javier Villafañe 2024. Una propuesta poética y sensorial sobre la transformación y la búsqueda interior.",
-    "precio": "Entrada general $8000 | Anticipadas $7000 (al 3884334389)",
-    "mapa": "https://www.google.com/maps?q=Teatro+La+Mar+en+Coche+Multiespacio"
-  },
-  {
-    "titulo": "Rocío Fuenzalida presenta “Mi Canto y la Danza”",
-    "fecha": "Viernes 24 de octubre – 21:00 hs",
-    "lugar": "Centro Cultural Héctor Tizón",
-    "descripcion": "Espectáculo folclórico que recorre nuevas canciones y clásicos tradicionales. Participación especial del cuerpo de danzas nativas La Trunca. Un show lleno de identidad y emoción.",
-    "precio": "Entrada general $8000 | Anticipadas al 3883332755 / 3884788543",
-    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Héctor+Tizón+Jujuy"
-  },
-  {
-    "titulo": "Miss Carbón 🎬",
-    "fecha": "Viernes 24 de octubre – 21:15 hs",
-    "lugar": "Cine Auditorium Julio Lencina (Espacio INCAA Mercosur)",
-    "descripcion": "Carlita logró ser la primera mujer minera en un pueblo donde las mujeres tenían prohibida la entrada a la mina. Como mujer trans, rompió el sistema desde dentro y encendió la chispa de una revolución. Con Lux Pascal, Laura Grandinetti, Paco León, Romina Escobar y Simone Mercado. Dirección de Agustina Macri.",
-    "precio": "Entrada general $2800 | Jubilados y estudiantes $1400 | Personas con discapacidad: gratuita",
+    "descripcion": "Documental de Natalia Vinelli y Alejandra Guzzo. Norma Pla, la mujer que encabezó la lucha por los derechos de los jubilados y se convirtió en símbolo de resistencia durante el auge del neoliberalismo. Un retrato que revive sus protestas y revaloriza su compromiso, trazando paralelismos entre los 90 y el presente.",
+    "precio": "General: $2800 | Estudiantes y jubilados: $1400 | Pers. c/Discapacidad: $0",
     "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
   },
   {
     "titulo": "La Iniciación",
-    "fecha": "Sábado 25 de octubre – 19:00 hs",
+    "fecha": "Viernes 31 de octubre – 21:30 hs",
     "lugar": "Teatro El Pasillo",
     "descripcion": "Versión teatral de un cuento de brujas. Dirección general de Rodolfo Pacheco. Texto de Jorge Accame. Con Noemí Salerno, Susana Arlla, Elena Acosta y Rodolfo Pacheco.",
     "precio": "Entradas en @entradaweb",
     "mapa": "https://www.google.com/maps?q=José+de+la+Iglesia+1190+Jujuy"
   },
-   {
+  {
+    "titulo": "NADIE VA A ESCUCHAR TU GRITO",
+    "fecha": "Viernes 31 de octubre – 21:15 hs y Sábado 1 de noviembre – 21:15 hs",
+    "lugar": "Cine Auditorium Julio Lencina (Espacio INCAA Mercosur)",
+    "descripcion": "Mientras un país entero está atento al Mundial de Italia ’90, alguien aprovecha los partidos de Argentina para cometer brutales asesinatos. Micaela, una joven que trabaja en una disquería, descubre que el asesino está vinculado a su trabajo a través de una mezcla que ella misma creó. Cada partido trae una nueva víctima. Con Sol Wainer, Byron Barbieri, Román Almaraz. Dir: Mariano Cattaneo.",
+    "precio": "General: $2800 | Estudiantes y jubilados: $1400 | Pers. c/Discapacidad: $0",
+    "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
+  },
+  {
+    "titulo": "MISS CARBÓN",
+    "fecha": "Sábado 1 de noviembre – 19:30 hs",
+    "lugar": "Cine Auditorium Julio Lencina (Espacio INCAA Mercosur)",
+    "descripcion": "Dirigida por Agustina Macri. Carlita logró ser la primera mujer minera en un pueblo donde las mujeres tenían prohibida la entrada a la mina. Como mujer trans, rompió el sistema desde dentro y encendió la chispa de una revolución. Con Lux Pascal, Laura Grandinetti, Paco León, Romina Escobar, Simone Mercado.",
+    "precio": "General: $2800 | Estudiantes y jubilados: $1400 | Pers. c/Discapacidad: $0",
+    "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
+  },
+  {
+    "titulo": "SANDRA CORIZZO | Presenta su nuevo álbum EP “FUERTE”",
+    "fecha": "Sábado 1 de noviembre – 22:00 hs",
+    "lugar": "Teatro El Pasillo",
+    "descripcion": "Autora, compositora y docente nacida en Rosario, Sandra Corizzo llega a Teatro El Pasillo para presentar su nuevo trabajo discográfico FUERTE. Con influencias del jazz, soul, pop-rock, folklore y la música brasileña, propone un recorrido íntimo por su universo sonoro.",
+    "precio": "Entradas disponibles en EntradaWeb",
+    "mapa": "https://www.google.com/maps?q=José+de+la+Iglesia+1190+Jujuy"
+  },
+  {
+    "titulo": "EXPERIENCIA DALIA GUTMANN | Vamos a reírnos de nosotras!",
+    "fecha": "Sábado 1 de noviembre – 21:00 hs",
+    "lugar": "Teatro Mitre",
+    "descripcion": "Nuevo show de Dalia Gutmann, dirigido por Mariela Asensio. Un recorrido divertido y sincero por los vínculos, los miedos y las contradicciones del ser mujer.",
+    "precio": "Entradas en venta en el teatro y en www.ventas.autoentrada.com",
+    "mapa": "https://www.google.com/maps?q=Teatro+Mitre+Jujuy"
+  },
+  {
+    "titulo": "ES COMPLICADO | Claribel Medina y Diego Pérez",
+    "fecha": "Domingo 2 de noviembre – 20:00 hs",
+    "lugar": "Teatro Mitre (Sala Galán)",
+    "descripcion": "Comedia protagonizada por Claribel Medina y Diego Pérez. Libro y dirección de Ernesto Medela. Producción de Sequeira Producciones.",
+    "precio": "Entradas disponibles en autoentrada.com",
+    "mapa": "https://www.google.com/maps?q=Teatro+Mitre+Jujuy"
+  },
+  {
+    "titulo": "LA VERBENA DE LA PALOMA",
+    "fecha": "Domingo 2 de noviembre – 19:00 y 21:00 hs",
+    "lugar": "Teatro Mitre",
+    "descripcion": "Con la Orquesta Académica de Salta, Ensamble Arte Coral y Salta Lírica. Dirección escénica: Andrés Araya García. Dirección musical: Luis Benavidez.",
+    "precio": "Consultar en boletería del teatro.",
+    "mapa": "https://www.google.com/maps?q=Teatro+Mitre+Jujuy"
+  },
+  {
     "titulo": "Muestra Salón Provincial de Artes Visuales VI",
     "fecha": "Viernes 3 al Viernes 31 de octubre – 20:00 hs",
     "lugar": "Centro Cultural Culturarte, Sarmiento esq. San Martín",
@@ -72,6 +88,14 @@
     "mapa": "https://www.google.com/maps?q=Centro+Cultural+Culturarte+Jujuy"
   },
   {
+    "titulo": "Semana Homenaje a Ricardo Vilca | Muestra Museo Itinerante",
+    "fecha": "Inauguración 5 de noviembre – 19:00 hs (visitable hasta el 12 de noviembre)",
+    "lugar": "Centro Cultural Mirentxu (Casa Baca)",
+    "descripcion": "Una tarde para recordar, sentir y celebrar la obra de Ricardo Vilca. La muestra recorre su legado artístico y humano. Actividad sin costo.",
+    "precio": "Entrada gratuita",
+    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Mirentxu+Jujuy"
+  },
+ {
     "titulo": "Clínica de Obra: Miradas en diálogo para proyectos en desarrollo",
     "fecha": "5 al 8 de noviembre – 19:00 a 22:00 hs (último día 9:00 a 12:00 hs)",
     "lugar": "Centro Cultural Culturarte, Sarmiento esq. San Martín",
@@ -80,12 +104,20 @@
     "mapa": "https://www.google.com/maps?q=Centro+Cultural+Culturarte+Jujuy"
   },
   {
-    "titulo": "Morí Por Amarte | ESTRENO",
+    "titulo": "Morí Por Amarte | ESTRENO (Agotado) Consulta por próximas funciones!",
     "fecha": "Jueves 7 de noviembre – 22:00 hs",
     "lugar": "Instituto Superior Delta, Ramírez de Velazco 150",
     "descripcion": "Obra teatral de Ledu López. En la intimidad de una habitación, Luis y Nico desnudan sus miedos, su deseo y la frontera entre amar y dominar. Con Joaquín Galarza y Eduardo López. Dirección: Eduardo López. Asistencia: Támara Valenzuela.",
     "precio": "Anticipadas $10.000 (transferencia) | En puerta $12.000 | Tel. 3815716471",
     "mapa": "https://www.google.com/maps?q=Instituto+Superior+Delta+Jujuy"
+  },
+  {
+    "titulo": "ÉRASE UNA VEZ... EL LOBIZÓN",
+    "fecha": "Sábado 9 de noviembre – 20:00 hs",
+    "lugar": "Teatro Mitre (Sala Raúl Galán)",
+    "descripcion": "De Darío Basualdo, con: Gustavo Ramírez, Guillermo Rocha, Natalio Bognanni y Nelson Argamonte. Una reinterpretación escénica de la clásica leyenda argentina del Lobizón.",
+    "precio": "Entradas disponibles en autoentrada.com",
+    "mapa": "https://www.google.com/maps?q=Teatro+Mitre+Jujuy"
   }
 ]
 
