@@ -1,123 +1,178 @@
 [
   {
-    "titulo": "MULA PARDA ft. NADIA SZACHNIUK | Gira Noroeste Argentino",
-    "fecha": "Miércoles 29 de octubre – 21:30 hs",
-    "lugar": "Teatro El Pasillo",
-    "descripcion": "El trío Mula Parda y la cantante Nadia Szachniuk llegan a Teatro El Pasillo con una propuesta que enlaza tradición, búsqueda personal y nuevas sonoridades dentro del folklore argentino. Un recorrido por obras instrumentales y vocales que evocan los paisajes y emociones del norte, en un diálogo entre la voz, la guitarra, el piano, el violín y la flauta.",
-    "precio": "Entradas disponibles en EntradaWeb",
-    "mapa": "https://www.google.com/maps?q=José+de+la+Iglesia+1190+Jujuy"
+    "titulo": "El Fogón Imaginario",
+    "fecha": "Jueves 13 de noviembre – 20:00 hs",
+    "lugar": "Centro Cultural Héctor Tizón",
+    "descripcion": "Experiencia Biblioteca Viva 🔥 Espacio de lectura y escritura en grupo. En el fogón imaginario la creatividad emerge del fueguito interior que se enciende a partir del encuentro grupal y la posibilidad de compartir, desprejuiciadamente, en un espacio donde regamos la humildad y la alegría; y florecen…",
+    "precio": "Actividad libre y gratuita | Más información al 3884739472",
+    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Héctor+Tizón+Jujuy"
   },
   {
-    "titulo": "CICLO DE CINE | Suspiria (2018)",
-    "fecha": "Jueves 30 de octubre – 21:00 hs",
-    "lugar": "Teatro El Pasillo",
-    "descripcion": "Dirección: Luca Guadagnino. En el Berlín de 1977, una joven bailarina se une a una prestigiosa academia de danza… pero algo oscuro y antiguo habita entre sus paredes. Con una puesta visual hipnótica, una atmósfera inquietante y una banda sonora envolvente de Thom Yorke, Suspiria se sumerge en el arte, el sacrificio y la brujería.",
-    "precio": "Entrada general: $4000 | Estudiantes y jubilados: $2000. Reservas: 388 4546228",
-    "mapa": "https://www.google.com/maps?q=José+de+la+Iglesia+1190+Jujuy"
+    "titulo": "Federico Pecchia – Fiesta de la Música 2025",
+    "fecha": "Jueves 13 de noviembre – 20:30 hs",
+    "lugar": "Centro Cultural Héctor Tizón",
+    "descripcion": "Federico Pecchia regresa a San Salvador de Jujuy con canciones de su álbum 'Mirar al otro' y de su libro 'Poemas del libre albedrío'. Invitado: Daniel Vedia.",
+    "precio": "Entrada general $9.000 | Anticipadas al 1134163993",
+    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Héctor+Tizón+Jujuy"
   },
   {
-    "titulo": "NORMA TAMBIÉN",
-    "fecha": "Jueves 30 de octubre – 21:15 hs",
+    "titulo": "TAMALES",
+    "fecha": "Jueves 13 de noviembre – 19:00 hs",
     "lugar": "Cine Auditorium Julio Lencina (Espacio INCAA Mercosur)",
-    "descripcion": "Documental de Natalia Vinelli y Alejandra Guzzo. Norma Pla, la mujer que encabezó la lucha por los derechos de los jubilados y se convirtió en símbolo de resistencia durante el auge del neoliberalismo. Un retrato que revive sus protestas y revaloriza su compromiso, trazando paralelismos entre los 90 y el presente.",
-    "precio": "General: $2800 | Estudiantes y jubilados: $1400 | Pers. c/Discapacidad: $0",
+    "descripcion": "Película dirigida por Teo Ciampagna. Rosa, una tamalera de la Quebrada de Humahuaca, muere repentinamente y su familia desata una locura por encontrar el oro que dejó escondido. Con Matías Aucapiña, Rosa Raina, Flavia Molina, Guillermo Rocha y más.",
+    "precio": "Gral. $2800 | Estudiantes y jubilados $1400 | Pers. c/Discapacidad $0 | Desde 20 minutos antes",
     "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
   },
   {
-    "titulo": "La Iniciación",
-    "fecha": "Viernes 31 de octubre – 21:30 hs",
-    "lugar": "Teatro El Pasillo",
-    "descripcion": "Versión teatral de un cuento de brujas. Dirección general de Rodolfo Pacheco. Texto de Jorge Accame. Con Noemí Salerno, Susana Arlla, Elena Acosta y Rodolfo Pacheco.",
-    "precio": "Entradas en @entradaweb",
+    "titulo": "Ciclo de cine.| Historias Mínimas",
+    "fecha": "Jueves 13 de noviembre – 21:00 hs",
+    "lugar": "Teatro El Pasillo (José de la Iglesia 1190)",
+    "descripcion": "Ciclo de cine. Dirección: Carlos Sorín. Tres vidas se cruzan en los paisajes de la Patagonia: un hombre busca a su perro, un viajante intenta conquistar a una viuda y una mujer sueña con ganar en la televisión.",
+    "precio": "Entrada general $4000 | Estudiantes y jubilados $2000 | Reservas al 3884546228",
     "mapa": "https://www.google.com/maps?q=José+de+la+Iglesia+1190+Jujuy"
   },
   {
-    "titulo": "NADIE VA A ESCUCHAR TU GRITO",
-    "fecha": "Viernes 31 de octubre – 21:15 hs y Sábado 1 de noviembre – 21:15 hs",
+    "titulo": "El Ritual del Libro Rojo. La puerta del infierno",
+    "fecha": "Jueves 13 y Sábado 15 de noviembre – 21:15 hs",
     "lugar": "Cine Auditorium Julio Lencina (Espacio INCAA Mercosur)",
-    "descripcion": "Mientras un país entero está atento al Mundial de Italia ’90, alguien aprovecha los partidos de Argentina para cometer brutales asesinatos. Micaela, una joven que trabaja en una disquería, descubre que el asesino está vinculado a su trabajo a través de una mezcla que ella misma creó. Cada partido trae una nueva víctima. Con Sol Wainer, Byron Barbieri, Román Almaraz. Dir: Mariano Cattaneo.",
-    "precio": "General: $2800 | Estudiantes y jubilados: $1400 | Pers. c/Discapacidad: $0",
+    "descripcion": "Robbie intenta contactar a su novia fallecida a través del peligroso ritual del Libro Rojo, despertando fuerzas sobrenaturales. Con Georgina Campbell, Misha Osherovich y Lucía Baez.",
+    "precio": "Gral. $2800 | Estudiantes y jubilados $1400 | Pers. c/Discapacidad $0 | Desde 20 minutos antes",
     "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
   },
   {
-    "titulo": "MISS CARBÓN",
-    "fecha": "Sábado 1 de noviembre – 19:30 hs",
+    "titulo": "El Agrónomo",
+    "fecha": "Viernes 14 de noviembre – 19:00 hs",
     "lugar": "Cine Auditorium Julio Lencina (Espacio INCAA Mercosur)",
-    "descripcion": "Dirigida por Agustina Macri. Carlita logró ser la primera mujer minera en un pueblo donde las mujeres tenían prohibida la entrada a la mina. Como mujer trans, rompió el sistema desde dentro y encendió la chispa de una revolución. Con Lux Pascal, Laura Grandinetti, Paco León, Romina Escobar, Simone Mercado.",
-    "precio": "General: $2800 | Estudiantes y jubilados: $1400 | Pers. c/Discapacidad: $0",
+    "descripcion": "Un ingeniero agrónomo confronta dilemas éticos al descubrir las consecuencias de su trabajo tras la enfermedad de la mejor amiga de su hija. Dir. Martín Turnes.",
+    "precio": "Gral. $2800 | Estudiantes y jubilados $1400 | Pers. c/Discapacidad $0",
     "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
   },
   {
-    "titulo": "SANDRA CORIZZO | Presenta su nuevo álbum EP “FUERTE”",
-    "fecha": "Sábado 1 de noviembre – 22:00 hs",
-    "lugar": "Teatro El Pasillo",
-    "descripcion": "Autora, compositora y docente nacida en Rosario, Sandra Corizzo llega a Teatro El Pasillo para presentar su nuevo trabajo discográfico FUERTE. Con influencias del jazz, soul, pop-rock, folklore y la música brasileña, propone un recorrido íntimo por su universo sonoro.",
-    "precio": "Entradas disponibles en EntradaWeb",
-    "mapa": "https://www.google.com/maps?q=José+de+la+Iglesia+1190+Jujuy"
+    "titulo": "Norma También",
+    "fecha": "Viernes 14 de noviembre – 21:15 hs",
+    "lugar": "Cine Auditorium Julio Lencina (Espacio INCAA Mercosur)",
+    "descripcion": "De Natalia Vinelli y Alejandra Guzzo. Un retrato de Norma Pla que revive sus protestas y su compromiso en los 90. Con Beatriz Adaro, Miriam Lewin y Germán Pla.",
+    "precio": "Gral. $2800 | Estudiantes y jubilados $1400 | Pers. c/Discapacidad $0",
+    "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
   },
   {
-    "titulo": "EXPERIENCIA DALIA GUTMANN | Vamos a reírnos de nosotras!",
-    "fecha": "Sábado 1 de noviembre – 21:00 hs",
-    "lugar": "Teatro Mitre",
-    "descripcion": "Nuevo show de Dalia Gutmann, dirigido por Mariela Asensio. Un recorrido divertido y sincero por los vínculos, los miedos y las contradicciones del ser mujer.",
-    "precio": "Entradas en venta en el teatro y en www.ventas.autoentrada.com",
-    "mapa": "https://www.google.com/maps?q=Teatro+Mitre+Jujuy"
+    "titulo": "Mauro Useda – Fiesta de la Música 2025",
+    "fecha": "Viernes 14 de noviembre – 20:30 hs",
+    "lugar": "Centro Cultural Héctor Tizón",
+    "descripcion": "Mauro Useda presenta un recorrido por la diversidad del folklore argentino: zambas, chacareras, huaynos y más. Bajo la inspiración de Almenares.",
+    "precio": "Entrada general $10.000 | Anticipadas al 3884130451",
+    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Héctor+Tizón+Jujuy"
   },
   {
-    "titulo": "ES COMPLICADO | Claribel Medina y Diego Pérez",
-    "fecha": "Domingo 2 de noviembre – 20:00 hs",
-    "lugar": "Teatro Mitre (Sala Galán)",
-    "descripcion": "Comedia protagonizada por Claribel Medina y Diego Pérez. Libro y dirección de Ernesto Medela. Producción de Sequeira Producciones.",
+    "titulo": "Érase una vez... El Lobizón",
+    "fecha": "Viernes 14 de noviembre – 21:00 hs",
+    "lugar": "Teatro Mitre (Sala Raúl Galán)",
+    "descripcion": "De Darío Basualdo, con Gustavo Ramírez, Guillermo Rocha, Natalio Bognanni y Nelson Argamonte. Una reinterpretación escénica de la clásica leyenda argentina del Lobizón.",
     "precio": "Entradas disponibles en autoentrada.com",
     "mapa": "https://www.google.com/maps?q=Teatro+Mitre+Jujuy"
   },
   {
-    "titulo": "LA VERBENA DE LA PALOMA",
-    "fecha": "Domingo 2 de noviembre – 19:00 y 21:00 hs",
-    "lugar": "Teatro Mitre",
-    "descripcion": "Con la Orquesta Académica de Salta, Ensamble Arte Coral y Salta Lírica. Dirección escénica: Andrés Araya García. Dirección musical: Luis Benavidez.",
-    "precio": "Consultar en boletería del teatro.",
-    "mapa": "https://www.google.com/maps?q=Teatro+Mitre+Jujuy"
+    "titulo": "Adorando a la Serpiente",
+    "fecha": "Viernes 14 de noviembre – 21:30 hs",
+    "lugar": "Teatro El Pasillo",
+    "descripcion": "De Elena Bossi. Con Silvia Gallegos y Julia Suárez. Dirección Rodolfo Pacheco. Una obra intensa sobre el racismo cotidiano y las marcas que deja en nuestra sociedad.",
+    "precio": "Entradas disponibles en entradaweb.com",
+    "mapa": "https://www.google.com/maps?q=José+de+la+Iglesia+1190+Jujuy"
   },
   {
-    "titulo": "Muestra Salón Provincial de Artes Visuales VI",
-    "fecha": "Viernes 3 al Viernes 31 de octubre – 20:00 hs",
-    "lugar": "Centro Cultural Culturarte, Sarmiento esq. San Martín",
-    "descripcion": "Exposición colectiva que reúne obras de fotografía, grabado y pintura de artistas jujeños. Muestra conjunta entre Culturarte, Casa Macedonio Graz y Casa Silvetti.",
-    "precio": "Entrada libre y gratuita",
-    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Culturarte+Jujuy"
+    "titulo": "Andi & Willy – Promételo",
+    "fecha": "Viernes 14 de noviembre – 22:00 hs",
+    "lugar": "Teatro El Pasillo",
+    "descripcion": "Show íntimo de música en vivo. Un dúo que combina energía, humor y sensibilidad en un recorrido por canciones propias y grandes clásicos.",
+    "precio": "Entradas al 3884546228",
+    "mapa": "https://www.google.com/maps?q=José+de+la+Iglesia+1190+Jujuy"
   },
   {
-    "titulo": "Semana Homenaje a Ricardo Vilca | Muestra Museo Itinerante",
-    "fecha": "Inauguración 5 de noviembre – 19:00 hs (visitable hasta el 12 de noviembre)",
-    "lugar": "Centro Cultural Mirentxu (Casa Baca)",
-    "descripcion": "Una tarde para recordar, sentir y celebrar la obra de Ricardo Vilca. La muestra recorre su legado artístico y humano. Actividad sin costo.",
-    "precio": "Entrada gratuita",
-    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Mirentxu+Jujuy"
-  },
- {
-    "titulo": "Clínica de Obra: Miradas en diálogo para proyectos en desarrollo",
-    "fecha": "5 al 8 de noviembre – 19:00 a 22:00 hs (último día 9:00 a 12:00 hs)",
-    "lugar": "Centro Cultural Culturarte, Sarmiento esq. San Martín",
-    "descripcion": "Clínica dirigida por el Magíster Marcelo Coca, destinada a artistas visuales que deseen profundizar en los aspectos conceptuales, formales y contextuales de sus obras. Inscripciones del 20 de octubre al 3 de noviembre. Cupos limitados.",
-    "precio": "Actividad gratuita con inscripción previa al 3884140673",
-    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Culturarte+Jujuy"
-  },
-  {
-    "titulo": "Morí Por Amarte | ESTRENO (Agotado) Consulta por próximas funciones!",
-    "fecha": "Viernes 7 de noviembre – 22:00 hs",
-    "lugar": "Instituto Superior Delta, Ramírez de Velazco 150",
-    "descripcion": "Obra teatral de Ledu López. En la intimidad de una habitación, Luis y Nico desnudan sus miedos, su deseo y la frontera entre amar y dominar. Con Joaquín Galarza y Eduardo López. Dirección: Eduardo López. Asistencia: Támara Valenzuela.",
-    "precio": "Anticipadas $10.000 (transferencia) | En puerta $12.000 | Tel. 3815716471",
+    "titulo": "Morí Por Amarte",
+    "fecha": "Viernes 14 y Sábado 15 de noviembre – 22:00 hs",
+    "lugar": "Instituto Superior Delta",
+    "descripcion": "Obra teatral de Ledu López. En la intimidad de una habitación, Luis y Nico desnudan sus miedos, su deseo y la frontera entre amar y dominar. Con Joaquín Galarza y Eduardo López. Dirección: Eduardo López.",
+    "precio": "Anticipadas $10.000 | En puerta $12.000 | Wpp: https://wa.me/3815716471",
     "mapa": "https://www.google.com/maps?q=Instituto+Superior+Delta+Jujuy"
   },
   {
-    "titulo": "ÉRASE UNA VEZ... EL LOBIZÓN",
-    "fecha": "Domingo 9 de noviembre – 20:00 hs",
-    "lugar": "Teatro Mitre (Sala Raúl Galán)",
-    "descripcion": "De Darío Basualdo, con: Gustavo Ramírez, Guillermo Rocha, Natalio Bognanni y Nelson Argamonte. Una reinterpretación escénica de la clásica leyenda argentina del Lobizón.",
-    "precio": "Entradas disponibles en autoentrada.com",
-    "mapa": "https://www.google.com/maps?q=Teatro+Mitre+Jujuy"
+    "titulo": "Mar Paraguayo",
+    "fecha": "Viernes 14 y Sábado 15 de noviembre – 22:00 hs",
+    "lugar": "La Mar en Coche",
+    "descripcion": "Guarará Escénico presenta un experimento escénico donde español, portugués y guaraní se entrelazan. Versión teatral de Jorge Montesino basada en el libro de Wilson Bueno.",
+    "precio": "Anticipadas $12.000 | En puerta $15.000 | Reservas al 3412828722",
+    "mapa": "https://www.google.com/maps?q=Teatro+La+Mar+en+Coche+Multiespacio"
+  },
+  {
+    "titulo": "TEATRO INVISIBLE | Experiencia Sensorial en la Oscuridad – Función Familiar: Mi Mundo Imaginario",
+    "fecha": "Sábado 15 de noviembre – 19:00 hs",
+    "lugar": "Teatro El Pasillo",
+    "descripcion": "Una propuesta única para toda la familia donde niñas y niños podrán viajar con su imaginación, explorar otros sentidos y ser parte activa de la historia. Un espectáculo cálido, lúdico y profundamente envolvente. Incluye pulsera de ingreso, vaso de agua mineral, golosina sin TAC y una sorpresa para cada niño.",
+    "precio": "Entrada general: $8.000 | Promos anticipadas: 2 x $15.000 | 3 x $20.000",
+    "mapa": "https://www.google.com/maps?q=José+de+la+Iglesia+1190+Jujuy"
+  },
+  {
+    "titulo": "TEATRO INVISIBLE | Experiencia Sensorial en la Oscuridad – Funciones para Adultos: Tu Pecado No Quedará Impune",
+    "fecha": "Sábado 15 de noviembre – 21:30 hs y 23:00 hs",
+    "lugar": "Teatro El Pasillo",
+    "descripcion": "La reconocida experiencia sensorial en completa oscuridad regresa a Jujuy. Una obra intensa, inmersiva y emocional donde el público se entrega a un viaje distinto, guiado por la imaginación y la potencia de los sentidos.",
+    "precio": "Entrada general: $12.000 | Promos anticipadas: 2 x $20.000",
+    "mapa": "https://www.google.com/maps?q=José+de+la+Iglesia+1190+Jujuy"
+  },
+  {
+    "titulo": "África",
+    "fecha": "Sábado 15 de noviembre – 18:00 hs",
+    "lugar": "Teatro El Pasillo",
+    "descripcion": "Obra teatral infantil de la Compañía Trucotrato. Una aventura desde la sabana africana hasta el espacio exterior, ideal para disfrutar en familia.",
+    "precio": "Entradas disponibles al 3884546228",
+    "mapa": "https://www.google.com/maps?q=José+de+la+Iglesia+1190+Jujuy"
+  },
+  {
+    "titulo": "Fiesta de la Música 2025 – Cantantes",
+    "fecha": "Sábado 15 de noviembre – 20:00 hs",
+    "lugar": "Centro Cultural Héctor Tizón",
+    "descripcion": "Presentación de Felicitas Gauna, Tomás Casares, Enzo Cardozo, Martina Gonzáles Córdoba y Eliseo Gauna. Profesora: Silvia Pérez Blanco.",
+    "precio": "Entrada general $14.000 | Reservas al 3884346372",
+    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Héctor+Tizón+Jujuy"
+  },
+  {
+    "titulo": "Ricardo Vilca – Quebrada, Música y Silencio",
+    "fecha": "Sábado 15 de noviembre – 19:00 hs",
+    "lugar": "Cine Auditorium Julio Lencina (Espacio INCAA Mercosur)",
+    "descripcion": "De Javier García. Documental sobre la vida del músico humahuaqueño Ricardo Vilca y su legado cultural.",
+    "precio": "Gral. $2800 | Estudiantes y jubilados $1400 | Pers. c/Discapacidad $0",
+    "mapa": "https://www.google.com/maps?q=Cine+Auditorium+Espacio+INCAA+MERCOSUR+Jujuy"
+  },
+  {
+    "titulo": "Fiesta de la Música 2025 – Percusión, Canto y Danza",
+    "fecha": "Domingo 16 de noviembre – 18:00 hs",
+    "lugar": "Anfiteatro Las Lavanderas",
+    "descripcion": "Festival con Samba Púe, Ninadamba y grupos de percusión del Tizón. Danza africana a cargo de Analía Garay.",
+    "precio": "Actividad libre y gratuita",
+    "mapa": "https://www.google.com/maps?q=Anfiteatro+Las+Lavanderas+Jujuy"
+  },
+  {
+    "titulo": "Somo Lab – Laboratorio de Artes Escénicas",
+    "fecha": "Martes 18 de noviembre – 20:00 hs",
+    "lugar": "Somo Comunidad (Coronel Arias 1142 – Cdad. de Nieva)",
+    "descripcion": "Laboratorio de experimentación escénica coordinado por Juan Castro Olivera. Cuatro encuentros donde el teatro, la danza y la performance se entrelazan.",
+    "precio": "Inversión $15.000 | Consultas al 3884732691",
+    "mapa": "https://www.google.com/maps?q=Coronel+Arias+1142+Jujuy"
+  },
+  {
+    "titulo": "Taller Internacional – Dramaturgia del espacio",
+    "fecha": "Viernes 21 de noviembre – 10:00 a 14:00 hs",
+    "lugar": "La Mar en Coche",
+    "descripcion": "Taller impartido por el director y poeta visual Xavi (Javier Valencia) desde Perú. Incluye muestra abierta al público.",
+    "precio": "Cupo máximo 30 participantes | Informes al 3884334389",
+    "mapa": "https://www.google.com/maps?q=Teatro+La+Mar+en+Coche+Multiespacio"
+  },
+  {
+    "titulo": "La Rosa Teatro presenta CARROCEROS",
+    "fecha": "Jueves 27 de noviembre – 21:00 hs",
+    "lugar": "Centro Cultural Manuel Belgrano",
+    "descripcion": "Comedia popular escrita y dirigida por Germán Romano sobre las vivencias de un grupo de estudiantes en un canchón de San Salvador de Jujuy. Un espacio eufórico, feliz y libre pero lleno de conflictos y contratiempos, donde surgen enredos entre los protagonistas, la injerencia de adultos y la tensión de terminar un proyecto tan apasionado como inolvidable. Elenco: Eduardo López, Silvia Gaitán, Ciro Montaño, Tamara Valenzuela, Magdalena Seen, Pedro Sato, Marianela Pérez Modega, Sara Espinoza, Agustín Gutiérrez, Álvaro Manero, Gastón Rodríguez. Plástica: Daniel Manero. Dirección: Germán Romano. Proyecto con el apoyo del Ministerio de Cultura de Jujuy.",
+    "precio": "Entradas anticipadas al wpp: https://wa.me/3884342376",
+    "mapa": "https://www.google.com/maps?q=Centro+Cultural+Manuel+Belgrano+Jujuy"
   }
 ]
-
